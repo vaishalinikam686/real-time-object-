@@ -1,0 +1,172 @@
+Date: 18/9/2026
+Time: 16:29
+Phone Number: +919876543210
+Message: 🚨 *सुरक्षा सूचना (Security Alert)* 🚨वेळ: 2026-09-18 16:29:06कारणास्तव अलर्ट: *संशयित व्यक्ती आढळली (Human Intrusion)*कृपया त्वरित तपासणी करा!
+--------------------
+Date: 18/9/2026
+Time: 16:29
+Phone Number: +919876543210
+Message: 🚨 *सुरक्षा सूचना (Security Alert)* 🚨वेळ: 2026-09-18 16:29:26कारणास्तव अलर्ट: *संशयित व्यक्ती आढळली (Human Intrusion)*कृपया त्वरित तपासणी करा!
+--------------------
+Date: 18/9/2026
+Time: 16:30
+Phone Number: +919876543210
+Message: 🚨 *सुरक्षा सूचना (Security Alert)* 🚨वेळ: 2026-09-18 16:29:47कारणास्तव अलर्ट: *संशयित व्यक्ती आढळली (Human Intrusion)*कृपया त्वरित तपासणी करा!
+--------------------
+Date: 18/9/2026
+Time: 16:30
+Phone Number: +919876543210
+Message: 🚨 *सुरक्षा सूचना (Security Alert)* 🚨वेळ: 2026-09-18 16:30:07कारणास्तव अलर्ट: *संशयित व्यक्ती आढळली (Human Intrusion)*कृपया त्वरित तपासणी करा!
+--------------------
+Date: 18/9/2026
+Time: 16:30
+Phone Number: +919876543210
+Message: 🚨 *सुरक्षा सूचना (Security Alert)* 🚨वेळ: 2026-09-18 16:30:27कारणास्तव अलर्ट: *संशयित व्यक्ती आढळली (Human Intrusion)*कृपया त्वरित तपासणी करा!
+--------------------
+Date: 18/9/2026
+Time: 16:35
+Phone Number: +911234567890
+Image: alert_snapshot.jpg
+Caption: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:35:26 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 16:35
+Phone Number: +911234567890
+Image: alert_snapshot.jpg
+Caption: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:35:46 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 16:40
+Phone Number: +911234567890
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:40:01 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 16:40
+Phone Number: +911234567890
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:40:31 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 16:42
+Phone Number: +911234567890
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:42:37 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 16:43
+Phone Number: +911234567890
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:43:07 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 16:44
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:44:22 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 16:54
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 16:54:43 2026*Event:* Human Intrusion Detected_Smart Surveillance System Notification_
+--------------------
+Date: 18/9/2026
+Time: 17:1
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:01:44 2026*Event:* Human Intrusion Detected_Reply or confirm in system within 1 minute to suppress Emergency Call._
+--------------------
+Date: 18/9/2026
+Time: 17:9
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:09:49 2026*Event:* Human Intrusion Detected_Reply or confirm in system within 1 minute to suppress Emergency Call._
+--------------------
+Date: 18/9/2026
+Time: 17:15
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:15:00 2026*Event:* Human Intrusion Detected_Reply or confirm in system within 1 minute to suppress Emergency Call._
+--------------------
+Date: 18/9/2026
+Time: 17:19
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:19:37 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 17:21
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:21:01 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 17:23
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:23:50 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 17:25
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:25:50 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 17:27
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:27:39 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 17:28
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:28:33 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 17:29
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:28:53 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 17:29
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 17:29:20 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 18/9/2026
+Time: 21:39
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Fri Sep 18 21:39:12 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 21/9/2026
+Time: 10:48
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Sep 21 10:48:30 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 21/9/2026
+Time: 10:49
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Sep 21 10:49:09 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 19/10/2026
+Time: 7:5
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Oct 19 07:04:58 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 19/10/2026
+Time: 7:7
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Oct 19 07:06:58 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 19/10/2026
+Time: 7:9
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Oct 19 07:08:58 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 19/10/2026
+Time: 7:11
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Oct 19 07:10:58 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 19/10/2026
+Time: 7:13
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Oct 19 07:12:58 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 19/10/2026
+Time: 7:15
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Oct 19 07:14:59 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
+Date: 19/10/2026
+Time: 7:17
+Phone Number: +919309097951
+Message: 🚨 *SECURITY ALERT DETECTED**Time:* Mon Oct 19 07:16:59 2026*Event:* Human Intrusion Detected_Reply or press 's' in system within 1 minute to stop Siren & Call._
+--------------------
